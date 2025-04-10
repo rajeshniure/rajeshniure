@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rajeshniure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeshniure" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rajesh.niure.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajeshniure" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_niure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_niure" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rajeshniure567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rajeshniure567" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rajeshniure567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@rajeshniure567" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
