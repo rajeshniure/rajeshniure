@@ -19,13 +19,13 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 🚀 About Me
 
 </div>
 
-<div align="center">
+<div>
   <table>
     <tr>
       <td>🔭</td>
@@ -57,7 +57,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 🎓 Certifications
 
@@ -71,7 +71,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 🌐 Connect With Me
 
@@ -95,13 +95,13 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 🛠️ Tech Stack
 
 </div>
 
-<div align="center">
+<div>
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="Frontend Skills" />
@@ -122,7 +122,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ## 📊 GitHub Analytics
 
