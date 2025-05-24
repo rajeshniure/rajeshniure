@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ff6f00&center=true&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
