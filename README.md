@@ -12,23 +12,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **eCommerce platforms with Django & React**
+- 🔭 I'm currently working on ** Django & React project**
 - 🌱 I'm currently learning **React, AWS, Advanced Django**
-- 💼 **Freelance Web Developer** with experience in full-stack development
-- 🎯 Recent project: **Rock Bazaar** - E-Commerce Website with Khalti Payment Integration
 - 📫 How to reach me: **rajeshniure567@gmail.com**
 - 🌐 Portfolio: **[www.rajeshniure.com.np](http://www.rajeshniure.com.np)**
 - ⚡ Fun fact: **I write better code after a guitar solo** 🎸
 
-## 🏆 Experience & Projects
-
-### 💻 **Recent Projects**
-- **🛒 Rock Bazaar** - Full-featured eCommerce platform with Django & Khalti payment gateway
-- **🔧 QuickFix** - Handyman services booking platform with real-time features
-- **📱 Multiple freelance web applications** with responsive design
-
-### 🎓 **Education**
-- **BSc.CSIT** at Prime College (2022 - Present)
+### 🎓 **Certification**
 - **Certifications**: DSA with C++, JavaScript, SQL (Programiz)
 
 ## 🌐 Connect with me
@@ -138,26 +128,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshniure&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeshniure&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshniure&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 💼 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/rajeshniure/rock-bazaar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshniure&repo=rock-bazaar&theme=tokyonight&hide_border=true" alt="Rock Bazaar" />
-  </a>
-  <a href="https://github.com/rajeshniure/quickfix">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshniure&repo=quickfix&theme=tokyonight&hide_border=true" alt="QuickFix" />
-  </a>
-</div>
 
 ---
 
@@ -167,5 +137,4 @@
 
 <div align="center">
   <h3>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
-  <p>⭐️ From <a href="https://github.com/rajeshniure">Rajesh Niure</a></p>
 </div>
