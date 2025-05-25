@@ -17,11 +17,31 @@
   </table>
 </div>
 
----
+<div align="center">
+
+<a href="https://linkedin.com/in/rajeshniure" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/rajesh.niure.7" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/raj_niure" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.rajeshniure.com.np" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
+
+
 
 <div>
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
 </div>
 
@@ -55,11 +75,10 @@
   </table>
 </div>
 
----
 
 <div>
 
-## 🎓 Certifications
+## 🎓 CERTIFICATIONS
 
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++" />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,35 +90,11 @@
 
 </div>
 
----
+
 
 <div>
 
-## 🌐 Connect With Me
-
-<a href="https://linkedin.com/in/rajeshniure" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/rajesh.niure.7" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/raj_niure" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="http://www.rajeshniure.com.np" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
-
----
-
-<div>
-
-## 🛠️ Tech Stack
+## 🛠️ SKILLS
 
 <table>
   <tr>
@@ -126,11 +121,11 @@
 
 </div>
 
----
+
 
 <div>
 
-## 📊 GitHub Analytics
+## 📊 GITHUB ANALYTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajeshniure&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshniure&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF" alt="Streak Stats" width="48%" />
