@@ -128,15 +128,4 @@
 
 </div>
 
-<br/>
 
-<div>
-
-## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshniure&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshniure&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF" alt="Streak Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshniure&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="50%" />
-
-</div>
