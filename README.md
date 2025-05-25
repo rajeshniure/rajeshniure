@@ -1,3 +1,8 @@
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=rajeshniure&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile Views" /> 
+</p>
+
+
 <div align="center">
   <table>
     <tr>
@@ -11,10 +16,6 @@
     </tr>
   </table>
 </div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=rajeshniure&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile Views" /> 
-</p>
 
 ---
 
