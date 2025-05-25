@@ -62,7 +62,9 @@
 ## 🎓 Certifications
 
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
 *Certified by Programiz*
@@ -78,12 +80,15 @@
 <a href="https://linkedin.com/in/rajeshniure" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/rajesh.niure.7" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/raj_niure" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.rajeshniure.com.np" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
