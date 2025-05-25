@@ -95,24 +95,28 @@
 
 ## 🛠️ Tech Stack
 
-</div>
-
-<div>
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="Frontend Skills" />
-
-### Backend Development  
-<img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Skills" />
-
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,aws" alt="Database & Cloud" />
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Programming Languages" />
-
-### Tools & Software
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" />
+<table>
+  <tr>
+    <td><strong>Frontend Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="Frontend Skills" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend Development</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Skills" /></td>
+  </tr>
+  <tr>
+    <td><strong>Database & Cloud</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,aws" alt="Database & Cloud" /></td>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Programming Languages" /></td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Software</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" /></td>
+  </tr>
+</table>
 
 </div>
 
