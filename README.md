@@ -81,11 +81,17 @@
 
 ## 🎓 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
 
+<a href="https://programiz.pro/certificates/091667AC24C7" target="_blank">
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://programiz.pro/certificates/31AB8F853EAA" target="_blank">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://programiz.pro/certificates/1490E6AE88A4" target="_blank">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</a>
 
 *𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐢𝐳*
 
