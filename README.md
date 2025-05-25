@@ -3,7 +3,7 @@
     <tr>
       <td align="left" width="60%">
         <h1>Hi 👋, I'm Rajesh Niure</h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ff6f00&center=false&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=400&color=ff6f00&center=false&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast" alt="Typing SVG" />
       </td>
       <td align="center" width="40%">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" height="120" />
