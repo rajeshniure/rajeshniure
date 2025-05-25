@@ -1,16 +1,15 @@
 <div align="center">
-
-# Hi 👋, I'm Rajesh Niure
-
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ff6f00&center=true&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="100" height="100" />
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <h1>Hi 👋, I'm Rajesh Niure</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ff6f00&center=false&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast" alt="Typing SVG" />
+      </td>
+      <td align="center" width="40%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="120" height="120" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center"> 
@@ -129,5 +128,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshniure&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="50%" />
 
 </div>
-
-
