@@ -41,7 +41,7 @@
 
 <div>
 
-## 🚀 ABOUT ME
+## 🚀 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div>
 
-## 🎓 CERTIFICATIONS
+## 🎓 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
 
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++" />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -86,7 +86,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-*Certified by Programiz*
+*𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐢𝐳*
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div>
 
-## 🛠️ SKILLS
+## 🛠️ 𝐒𝐊𝐈𝐋𝐋𝐒
 
 <table>
   <tr>
@@ -125,7 +125,7 @@
 
 <div>
 
-## 📊 GITHUB ANALYTICS
+## 📊 𝐆𝐈𝐓𝐇𝐔𝐁 𝐀𝐍𝐀𝐋𝐘𝐓𝐈𝐂𝐒
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajeshniure&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshniure&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakLabel=58A6FF" alt="Streak Stats" width="48%" />
