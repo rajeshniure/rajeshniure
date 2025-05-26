@@ -41,7 +41,7 @@
 
 <div>
 
-## 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+## ● 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div>
 
-## 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
+## ● 𝐂𝐄𝐑𝐓𝐈𝐅𝐈𝐂𝐀𝐓𝐈𝐎𝐍𝐒
 
 <a href="https://programiz.pro/certificates/091667AC24C7" target="_blank">
 <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="DSA C++" />
@@ -101,7 +101,7 @@
 
 <div>
 
-## 𝐒𝐊𝐈𝐋𝐋𝐒
+## ● 𝐒𝐊𝐈𝐋𝐋𝐒
 
 <table>
   <tr>
