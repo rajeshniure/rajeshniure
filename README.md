@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="left" width="60%">
-        <h1>𝐇𝐢 👋, 𝐈'𝐦 𝐑𝐚𝐣𝐞𝐬𝐡 𝐍𝐢𝐮𝐫𝐞</h1>
+        <h1>𝐇𝐢, 𝐈'𝐦 𝐑𝐚𝐣𝐞𝐬𝐡 𝐍𝐢𝐮𝐫𝐞</h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=400&color=ff6f00&center=false&vCenter=true&width=600&lines=Web+Developer;Django+%26+Python+Enthusiast" alt="Typing SVG" />
       </td>
       <td align="center" width="40%">
@@ -70,7 +70,7 @@
     <tr>
       <td>⚡</td>
       <td><strong>Fun Fact</strong></td>
-      <td>I play guitar while my code compiles☺️</td>
+      <td>I play guitar while my code compiles</td>
     </tr>
   </table>
 </div>
