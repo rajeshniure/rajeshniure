@@ -70,7 +70,7 @@
     <tr>
       <td>⚡</td>
       <td><strong>Fun Fact</strong></td>
-      <td>I write better code after a guitar solo 🎸</td>
+      <td>I play guitar while my code compiles☺️</td>
     </tr>
   </table>
 </div>
