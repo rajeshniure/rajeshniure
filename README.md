@@ -106,23 +106,23 @@
 <table>
   <tr>
     <td><strong>Frontend Development</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="Frontend Skills" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,jquery" alt="Frontend Skills" height="33" /></td>
   </tr>
   <tr>
     <td><strong>Backend Development</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Skills" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,django,php" alt="Backend Skills" height="33" /></td>
   </tr>
   <tr>
     <td><strong>Database & Cloud</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,aws" alt="Database & Cloud" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,aws" alt="Database & Cloud" height="33" /></td>
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Programming Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,cs" alt="Programming Languages" height="33" /></td>
   </tr>
   <tr>
     <td><strong>Tools & Software</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Tools" height="33" /></td>
   </tr>
 </table>
 
