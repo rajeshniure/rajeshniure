@@ -109,7 +109,7 @@
   </tr>
   <tr>
     <td><strong>Database & Cloud</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,aws" alt="Database & Cloud" height="33" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database & Cloud" height="33" /></td>
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
