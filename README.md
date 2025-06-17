@@ -50,7 +50,7 @@
     <tr>
       <td>🌱</td>
       <td><strong>Currently Learning</strong></td>
-      <td>ReactJs, AWS, Advanced Django</td>
+      <td>ReactJs, Advanced Django</td>
     </tr>
     <tr>
       <td>📫</td>
